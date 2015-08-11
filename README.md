@@ -6,7 +6,7 @@
   <body>
     <image >
     <br>
-    <p> kobe <img src = "http://pic3.nipic.com/20090528/1866517_194550083_2.jpg"/> </p>
+    <p> kobe <img src = "http://img4.cache.netease.com/sports/2010/5/28/201005281654396521f.jpg"/> </p>
     <br>
   </body>
 </html>
